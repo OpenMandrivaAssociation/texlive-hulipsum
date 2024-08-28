@@ -1,6 +1,6 @@
 Name:		texlive-hulipsum
-Version:	56848
-Release:	2
+Version:	70928
+Release:	1
 Summary:	Hungarian dummy text (Lorum ipse)
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hulipsum
