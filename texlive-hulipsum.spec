@@ -3,7 +3,7 @@ Version:	70928
 Release:	1
 Summary:	Hungarian dummy text (Lorum ipse)
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hulipsum
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/hulipsum
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hulipsum.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hulipsum.doc.r%{version}.tar.xz
